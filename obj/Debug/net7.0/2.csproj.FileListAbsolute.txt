@@ -1,0 +1,15 @@
+C:\git\Новая папка\2\obj\Debug\net7.0\2.csproj.AssemblyReference.cache
+C:\git\Новая папка\2\obj\Debug\net7.0\2.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\Новая папка\2\obj\Debug\net7.0\2.AssemblyInfoInputs.cache
+C:\git\Новая папка\2\obj\Debug\net7.0\2.AssemblyInfo.cs
+C:\git\Новая папка\2\obj\Debug\net7.0\2.csproj.CoreCompileInputs.cache
+C:\git\Новая папка\2\bin\Debug\net7.0\2.exe
+C:\git\Новая папка\2\bin\Debug\net7.0\2.deps.json
+C:\git\Новая папка\2\bin\Debug\net7.0\2.runtimeconfig.json
+C:\git\Новая папка\2\bin\Debug\net7.0\2.dll
+C:\git\Новая папка\2\bin\Debug\net7.0\2.pdb
+C:\git\Новая папка\2\obj\Debug\net7.0\2.dll
+C:\git\Новая папка\2\obj\Debug\net7.0\refint\2.dll
+C:\git\Новая папка\2\obj\Debug\net7.0\2.pdb
+C:\git\Новая папка\2\obj\Debug\net7.0\2.genruntimeconfig.cache
+C:\git\Новая папка\2\obj\Debug\net7.0\ref\2.dll
